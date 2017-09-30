@@ -1,5 +1,6 @@
 # Thesis
 Code for *Machine Learning Stractification for Oncology Patient Survival*, Katherine L Lloyd.
+
 Thesis submitted to the University of Wariwick for the degree of PhD, September 2017.
 
 This code generates/extracts the data and plots for the thesis. 
