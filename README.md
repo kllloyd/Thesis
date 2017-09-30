@@ -59,3 +59,7 @@ Required libraries are:
 - synapseClient
 - UpSetR
 - zoo
+
+Tothill, R. W., Tinker, A. V., George, J., Brown, R., Fox, S. B., Lade, S., ... & Traficante, N. (2008). Novel molecular subtypes of serous and endometrioid ovarian cancer linked to clinical outcome. *Clinical cancer research*, 14(16), 5198-5208.
+
+Yuan, Y., Van Allen, E. M., Omberg, L., Wagle, N., Amin-Mansour, A., Sokolov, A., ... & Han, L. (2014). Assessing the clinical utility of cancer genomic and proteomic data across tumor types. *Nature biotechnology*, 32(7), 644-652.
